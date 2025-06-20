@@ -31,8 +31,10 @@ Flowchart included for logic clarity 🧠
 
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/b8871075-3eab-4bfd-ba8c-f8da8d981071)
-![image](https://github.com/user-attachments/assets/401a2b62-3430-4ae3-ae79-896ace8318c8)
+![image](https://github.com/user-attachments/assets/fa2beb75-54a5-477b-ae7c-fe85328239f3)
+
+![image](https://github.com/user-attachments/assets/7841bc44-0941-4219-970a-363cdad9795e)
+
 
 
 📌 How to Run
