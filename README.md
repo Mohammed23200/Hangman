@@ -1,6 +1,7 @@
 # 🎯 Hangman Game - Day 7 of #100DaysOfCode
 
-![image](https://github.com/user-attachments/assets/9f88b9c4-58ee-44df-9609-95f7068f56e3)
+![image](https://github.com/user-attachments/assets/42ae4975-ba28-4a96-8aeb-b5dc452ea07d)
+
 
 
 > A classic game with a Python twist – built as part of the [#100DaysOfCode](https://www.udemy.com/course/100-days-of-code/) challenge by Dr. Angela Yu 🚀
