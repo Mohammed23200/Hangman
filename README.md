@@ -28,7 +28,7 @@ User input validation 💡
 Game over detection 🎯
 
 Flowchart included for logic clarity 🧠
-
+```
 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/fa2beb75-54a5-477b-ae7c-fe85328239f3)
